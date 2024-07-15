@@ -2,6 +2,8 @@
 
 [Dashboard Interativo - Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTc4YzJhMTYtYmUxOS00YmRlLTg0NDQtOTE1NmI3NTdhZDEyIiwidCI6IjVjYTQ5NWRkLWQ0ZmEtNGVmMy04MDdmLWNkZmNjNTBlNDQ2OSJ9)
 
+
+
 ## Descrição do Projeto:
 
 Este projeto envolve a análise estatística de um time de e-sports com o objetivo de entender melhor seu desempenho e até prever possíveis resultados. 
