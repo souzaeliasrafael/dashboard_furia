@@ -1,4 +1,4 @@
-# Dashboard Furis - Power BI
+# Dashboard Furia - Power BI
 
 [Dashboard Interativo - Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTc4YzJhMTYtYmUxOS00YmRlLTg0NDQtOTE1NmI3NTdhZDEyIiwidCI6IjVjYTQ5NWRkLWQ0ZmEtNGVmMy04MDdmLWNkZmNjNTBlNDQ2OSJ9)
 
